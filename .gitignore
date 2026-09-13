@@ -1,0 +1,15 @@
+# Rendered media and source soundtrack stay outside the repository.
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.flac
+__pycache__/
+*.pyc
+.venv/
+
+# TouchDesigner autosaves and temporary exports.
+*.toe.autosave
+*.tox.autosave
+*.tmp
+

@@ -1,0 +1,26 @@
+[
+  {
+    "index": 13,
+    "file": "african_tribal_mask_model_03.glb",
+    "halfwidth": 1.089771588874651,
+    "points": 65536
+  },
+  {
+    "index": 14,
+    "file": "maskround.glb",
+    "halfwidth": 1.5444561680890154,
+    "points": 65536
+  },
+  {
+    "index": 15,
+    "file": "tribal_mask.glb",
+    "halfwidth": 0.6977035028103191,
+    "points": 65536
+  },
+  {
+    "index": 16,
+    "file": "walu_antelope_mask.glb",
+    "halfwidth": 0.723328873662088,
+    "points": 65536
+  }
+]
